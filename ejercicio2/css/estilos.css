@@ -1,0 +1,21 @@
+.hola1{
+  color: #000;
+}
+.hola2{
+  color: #fff;
+}
+p{
+  font-size: 50px;
+ display: flex;
+ justify-content: center;
+ margin-top: 30px;
+}
+.blanco{
+  background-color: #fff;
+}
+.negro{
+  background-color: #000;
+}
+body{
+  margin: 0 auto;
+}
